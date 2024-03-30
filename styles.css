@@ -257,20 +257,23 @@ p,a {
 #page1{
     height: 100vh;
     width: 100vw;
-    background-color: #ff0000;
+    background-color: #000000;
+    border-bottom: 1px solid #333;
     
 }
 
 #page2{
     height: 100vh;
     width: 100vw;
-    background-color: green;
+    background-color: #000000;
+    border-bottom: 1px solid #333;
 }
 
 #page3{
     height: 100vh;
     width: 100vw;
-    background-color: blue;
+    background-color: #000000;
+    border-bottom: 1px solid #333;
 }
 
 
